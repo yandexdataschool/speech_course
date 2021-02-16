@@ -1,5 +1,7 @@
 # YSDA Speech Processing Course
 
+- Materials for each week are in ./week* folders
+
 ## Course program
 
 **08.2 Introduction to Speech** (Sergey Dukanov)
