@@ -5,11 +5,12 @@
 ## Course program
 
 - Week 1: Introduction to Speech
-  -Lecture:
+    -Lecture:
+  
 - Week 2: Digital Signal Processing
-  -Lecture:
-  -Seminar:
-  -Homework
+    -Lecture:
+    -Seminar:
+    -Homework
 
 
 ## Contributors & course staff
