@@ -5,18 +5,12 @@
 ## Course program
 
 - Week 1: Introduction to Speech
+  -Lecture:
+- Week 2: Digital Signal Processing
+  -Lecture:
+  -Seminar:
+  -Homework
 
-**Lecture**: 
-
-
-### 15.2 Digital signal processing
-
-Lecture
-
-
-**01.3 Introduction to ASR**
-
-** Workshop: TBA**
 
 ## Contributors & course staff
 
