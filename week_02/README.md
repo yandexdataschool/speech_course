@@ -1,1 +1,2 @@
 
+![img](./stft-scheme.jpg)
