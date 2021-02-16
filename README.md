@@ -4,15 +4,17 @@
 
 ## Course program
 
-**08.2 Introduction to Speech** (Sergey Dukanov)
+- Week 1: Introduction to Speech
 
-**15.2 Digital signal processing** (Sergey Dukanov)
+**Lecture**: 
 
-** Seminar: Andrey Malinin **
 
-**22.2 Break!
+### 15.2 Digital signal processing
 
-**01.3 Introduction to ASR** (Andrey Malinin)
+Lecture
+
+
+**01.3 Introduction to ASR**
 
 ** Workshop: TBA**
 
