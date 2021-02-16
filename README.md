@@ -6,8 +6,6 @@
 
 **08.2 Introduction to Speech** (Sergey Dukanov)
 
-** Seminar: None
-
 **15.2 Digital signal processing** (Sergey Dukanov)
 
 ** Seminar: Andrey Malinin **
