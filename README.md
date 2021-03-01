@@ -12,6 +12,10 @@
     - Seminar: In part 1 we will implement the Short-Time-Fourier-Transform and obtain a Mel-Spectrogram. In part 2 we will: recover a Spectrogram from a Mel-Spectrogram. Reconstruct the original audio signal via the Griffin-Lim algorithm and do some simple voice warping. 
     - Homework: Audio-MNIST: Implement a Neural Network model to do simple digit classification based on a mel-spectrogram. 
 
+- [Week 3](https://github.com/yandexdataschool/speech_course/blob/main/week_03): Introduction to Speech Recognition
+    - Lecture: In this lecture we aim to draw a map of the general area of ASR. We do a quick recap of how audio is processed into a convenient form to work with (Mel-Spectrogram or MFCCs). Then we discuss how to process text into sub-word speech units, such as graphemes and phonemes, and how to align between sequence of acoustic features and sub-word speech units using either state-space models or attention mechanisms. We compare how to decode ASR using discriminative and generative models. Finally, we discuss how to assess ASR quality using Word Error Rate, Character Error Rate and Phone Error Rate using the Levenstein Algorithm.
+    - Seminar: You have to implement the recusive and matrix Levenstein Algorithms
+    
 
 ## Contributors & course staff
 
