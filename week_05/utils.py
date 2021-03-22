@@ -127,7 +127,6 @@ def word_errors(reference, hypothesis, ignore_case=False, delimiter=' '):
 
 
 def _levenshtein_distance(ref, hyp):
-    import numpy as np
     """Levenshtein distance is a string metric for measuring the difference
     between two sequences. Informally, the levenshtein distance is defined as
     the minimum number of single-character edits (substitutions, insertions or
