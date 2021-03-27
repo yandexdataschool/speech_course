@@ -1,4 +1,5 @@
 import numpy as np
+import torch
 
 def cer(reference, hypothesis, ignore_case=False, remove_space=False):
     """Calculate charactor error rate (CER). CER compares reference text and
