@@ -1,0 +1,10 @@
+*~
+*.pyc
+__pycache__
+output*
+LJSpeech-1.1*
+runs*
+pretrained_models
+workspace/
+
+.git
