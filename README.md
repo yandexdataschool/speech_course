@@ -4,6 +4,13 @@
 
 ## Course program
 
+- Week 1:
+
+- Week 2:
+    - Lecture: Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
+    - Seminar: Train VAD models
+    - Homework: Train SED models
+
 
 ## Contributors & course staff
 
