@@ -1,0 +1,16 @@
+torch==2.0.0
+torchaudio
+torchvision
+einops
+wget
+tqdm
+librosa
+lightning
+scipy
+soundfile
+sox
+matplotlib
+encodec
+tensorboard
+tensorboardX
+jupyterlab
