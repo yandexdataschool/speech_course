@@ -12,10 +12,6 @@
     - Seminar: Train VAD models
     - Homework: Train SED models
 
-## Slides
-
-01_DSP: 
-
 ## Contributors & course staff
 
 Current:
