@@ -8,9 +8,11 @@
     - Lecture: Intro to Digital Signal Processing (DSP), [slides](https://docs.google.com/presentation/d/1IkVFw8PgWPjn74918rFbuahd7Q38O0f04_bk5_fWPhE/edit?usp=sharing)
     - Seminar: Implement DSP pipeline
 - Week 2:
-    - Lecture: Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
+    - [Lecture](https://docs.google.com/presentation/d/10cPD8k2oVL2D4wfp4eMBGvSVOShIAfAUgFuqwjedJF4/edit?usp=sharing): Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
     - Seminar: Train VAD models
     - Homework: Train SED models
+- Week 3:
+    - Lecture: Keyword Spotting and Speech Biometrics tasks
 
 ## Contributors & course staff
 
