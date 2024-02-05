@@ -5,7 +5,8 @@
 ## Course program
 
 - Week 1:
-
+    - Lecture: Intro to Digital Signal Processing (DSP)
+    - Seminar: Implement DSP pipeline
 - Week 2:
     - Lecture: Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
     - Seminar: Train VAD models
