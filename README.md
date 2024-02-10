@@ -12,7 +12,9 @@
     - Seminar: Train VAD models
     - Homework: Train SED models
 - Week 3:
-    - Lecture: Keyword Spotting and Speech Biometrics tasks
+    - [Lecture](https://docs.google.com/presentation/d/1q5bL4Pdp9MRLJHRuZeabgoHt1KsSg-qGqoEXb_hokW0/edit?usp=sharing): Keyword Spotting and Speech Biometrics tasks
+    - Seminar: Train Biometrics model and look at embeddings
+    - Homework: Train Biometrics model to better quality
 
 ## Contributors & course staff
 
