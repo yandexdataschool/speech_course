@@ -3,17 +3,18 @@ import os
 
 import pandas as pd
 import torch
+import torch.nn as nn
 import torch.utils.data as torch_data
 import torchaudio
 
 
 class Dataset(torch_data.Dataset):
-    def __init__(self, split_part: str, datadir: str, feats: int = 80):
+    def __init__(self, split_part: str, datadir: str, feats: nn.Module):
         super().__init__()
         data = pd.read_csv(os.path.join(datadir, f'{split_part}.tsv'), sep='\t')
         labels = {key: idx for idx, key in enumerate(sorted(set(data.label.values)))}
         self._classes = len(labels)
-        self._feats = torchaudio.transforms.MelSpectrogram(n_mels=feats)
+        self._feats = feats
         self._pathes = []
         self._labels = []
         for _, row in data.iterrows():
