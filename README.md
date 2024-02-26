@@ -15,6 +15,10 @@
     - [Lecture](https://docs.google.com/presentation/d/1q5bL4Pdp9MRLJHRuZeabgoHt1KsSg-qGqoEXb_hokW0/edit?usp=sharing): Keyword Spotting and Speech Biometrics tasks
     - Seminar: Train Biometrics model and look at embeddings
     - Homework: Train Biometrics model to better quality
+- Week 4:
+    - [Lecture](https://docs.google.com/presentation/d/1WLjwnJHwjfWfrl31Q3CwwkSEtM5z47LCZ5lXAFk6_Gw/edit?usp=sharing): Speech Recognition I
+    - Seminar: Metrics and augmentations for speech recognition
+    - Homework: Implement CTC algorithm
 
 ## Contributors & course staff
 
