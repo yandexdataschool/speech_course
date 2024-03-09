@@ -28,6 +28,7 @@ Current:
 - Stepan Kargaltsev - ASR
 - Evgeniia Elistratova - TTS
 - Roman Kail - TTS
+- Vladimir Platonov - TTS
 - Evgenii Shabalin - TTS
 - Ravil Khisamov - VQE
 
