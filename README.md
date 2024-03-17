@@ -24,7 +24,7 @@
 - Week 6:
     - TODO
 - Week 7:
-    - [Lecture](https://docs.google.com/presentation/d/1CO1_5xzZb7mYLfQfdhqN0350dNCkgLt6hHB7smUjdGA/edit?usp=sharing): Text-to-Speech 2
+    - [Lecture](https://docs.google.com/presentation/d/1CO1_5xzZb7mYLfQfdhqN0350dNCkgLt6hHB7smUjdGA/edit?usp=sharing): Text-to-Speech 2, Acoustic models 
     - Seminar: Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
     - Homework: Train FastPitch model
 
