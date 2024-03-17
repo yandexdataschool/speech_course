@@ -19,6 +19,14 @@
     - [Lecture](https://docs.google.com/presentation/d/1WLjwnJHwjfWfrl31Q3CwwkSEtM5z47LCZ5lXAFk6_Gw/edit?usp=sharing): Speech Recognition I
     - Seminar: Metrics and augmentations for speech recognition
     - Homework: Implement CTC algorithm
+- Week 5:
+    - TODO
+- Week 6:
+    - TODO
+- Week 7:
+    - [Lecture](https://docs.google.com/presentation/d/1CO1_5xzZb7mYLfQfdhqN0350dNCkgLt6hHB7smUjdGA/edit?usp=sharing): Text-to-Speech 2
+    - Seminar: Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
+    - Homework: Train FastPitch model
 
 ## Contributors & course staff
 
