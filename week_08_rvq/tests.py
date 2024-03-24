@@ -117,7 +117,7 @@ def test_training_step():
     if (enc_grad, quant_grad, dec_grad) != ("yes", "no", "yes"):
         raise AssertionError(
             "Gradient from reconstruction loss should propagate through encoder and decoder.\n"
-            "But your gradients propagate through encoder={enc_grad} quantizer={quant_grad} decoder={dec_grad}"
+            f"But your gradients propagate through encoder={enc_grad} quantizer={quant_grad} decoder={dec_grad}"
         )
     
     # VQ loss only
@@ -140,7 +140,7 @@ def test_training_step():
     if (enc_grad, quant_grad, dec_grad) != ("yes", "yes", "no"):
         raise AssertionError(
             "Gradient from vector quatisation loss should propagate through encoder and quantizer.\n"
-            "But your gradients propagate through encoder={enc_grad} quantizer={quant_grad} decoder={dec_grad}"
+            f"But your gradients propagate through encoder={enc_grad} quantizer={quant_grad} decoder={dec_grad}"
         )
     
     return True
