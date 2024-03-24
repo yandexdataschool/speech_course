@@ -28,7 +28,7 @@
     - Seminar: Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
     - Homework: Train FastPitch model
 - Week 8:
-    - [Lecture, p1](): Text-to-Speech III, Vocoding 
+    - [Lecture, p1](https://docs.google.com/presentation/d/1QU5sUe8_uGEiFs-IFua7EU5_imsZK2TRuKJ_6IY4O9k/edit?usp=sharing): Text-to-Speech III, Vocoding 
     - [Lecture, p2](https://docs.google.com/presentation/d/143qUGId_yvMKx3IDOcErF5M1V6NXHmHp30GuRryhHxs/edit?usp=sharing): Vector Quantization, Codecs
     - Seminar: Vector Quantizaton, Residual Vector Quantization
 
