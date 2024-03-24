@@ -22,11 +22,15 @@
 - Week 5:
     - TODO
 - Week 6:
-    - TODO
+    - [Lecture](https://docs.google.com/presentation/d/1MAAAc_2vRS2jhxZlqfpx0m7Z3MY9J1jyXgdl7XStFf8/edit?usp=sharing): Text-to-Speech I, intro, preprocessor, metrics
 - Week 7:
-    - [Lecture](https://docs.google.com/presentation/d/1CO1_5xzZb7mYLfQfdhqN0350dNCkgLt6hHB7smUjdGA/edit?usp=sharing): Text-to-Speech 2, Acoustic models 
+    - [Lecture](https://docs.google.com/presentation/d/1CO1_5xzZb7mYLfQfdhqN0350dNCkgLt6hHB7smUjdGA/edit?usp=sharing): Text-to-Speech II, Acoustic models 
     - Seminar: Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
     - Homework: Train FastPitch model
+- Week 8:
+    - [Lecture, p1](): Text-to-Speech III, Vocoding 
+    - [Lecture, p2](https://docs.google.com/presentation/d/143qUGId_yvMKx3IDOcErF5M1V6NXHmHp30GuRryhHxs/edit?usp=sharing): Vector Quantization, Codecs
+    - Seminar: Vector Quantizaton, Residual Vector Quantization
 
 ## Contributors & course staff
 
