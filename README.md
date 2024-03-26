@@ -20,7 +20,8 @@
     - Seminar: Metrics and augmentations for speech recognition
     - Homework: Implement CTC algorithm
 - Week 5:
-    - TODO
+    - [Lecture](https://docs.google.com/presentation/d/1JI8NEjZLNQhbUuO5py3OlYIqMgTPI4LSR-CU3-Rnp9g/edit?usp=sharing): Speech Recognition II, Pretraining
+    - Homework: Finetune Wav2Vec2
 - Week 6:
     - [Lecture](https://docs.google.com/presentation/d/1MAAAc_2vRS2jhxZlqfpx0m7Z3MY9J1jyXgdl7XStFf8/edit?usp=sharing): Text-to-Speech I, intro, preprocessor, metrics
 - Week 7:
