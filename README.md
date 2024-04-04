@@ -34,6 +34,7 @@
     - Seminar: Vector Quantizaton, Residual Vector Quantization
 - Week 9:
     - [Lecture](https://docs.google.com/presentation/d/1ARlJHMr_c0R2g5Od-66ZTTuZGRxdTCjAzX2LQ9XPFdQ/edit#slide=id.g1f4de8b9e93_0_1414): Tranformers for TTS
+    - Homework: write inference for pre-trained transformer
 
 ## Contributors & course staff
 
