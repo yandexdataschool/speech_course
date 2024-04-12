@@ -1,0 +1,11 @@
+librosa
+matplotlib
+numpy
+scipy
+scikit-learn
+soundfile
+tensorboardX
+torch
+torchaudio
+torchmetrics
+tqdm
