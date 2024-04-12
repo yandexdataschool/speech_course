@@ -35,6 +35,10 @@
 - Week 9:
     - [Lecture](https://docs.google.com/presentation/d/1ARlJHMr_c0R2g5Od-66ZTTuZGRxdTCjAzX2LQ9XPFdQ/edit#slide=id.g1f4de8b9e93_0_1414): Tranformers for TTS
     - Homework: write inference for pre-trained transformer
+- Week 10:
+    - [Lecture](https://docs.google.com/presentation/d/1qq67ydUQpe40Xv5B-lEUWdhB2UMt0rjFuL1--EcqEzU/edit?usp=sharing): noise reduction
+    - Seminar: Streaming STFT and ISTFT
+    - Homework: Noise reduction model implementation
 
 ## Contributors & course staff
 
