@@ -39,7 +39,7 @@
     - Lecture: noise reduction
     - Seminar: Streaming STFT and ISTFT
     - Homework: Noise reduction model implementation
-- Week 11: [Slides]() | [Lecture](https://disk.yandex.ru/i/vGOufpHs8x5mZQ)
+- Week 11: [Slides](https://docs.google.com/presentation/d/1JsPBlITpc-a_I_1foWM1tWyO6B3y6OC_AIfmM6CLMr4/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/vGOufpHs8x5mZQ)
     - Lecture: Acoustic Echo Cancelation (AEC) and Beamforming
 
 ## Contributors & course staff
