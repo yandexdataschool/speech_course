@@ -41,6 +41,11 @@
     - Homework: Noise reduction model implementation
 - Week 11: [Slides](https://docs.google.com/presentation/d/1JsPBlITpc-a_I_1foWM1tWyO6B3y6OC_AIfmM6CLMr4/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/vGOufpHs8x5mZQ)
     - Lecture: Acoustic Echo Cancelation (AEC) and Beamforming
+- Week 12: [Slides](https://docs.google.com/presentation/d/1KfiPechci9fmcgi8K9I1_MybAdBo_MwrcK1AYqT4vLI/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/JpgbsaLbpN22Qw) | [Seminar](https://disk.yandex.ru/i/1erd90ueHJjjzw)
+    - Lecture: ASR Inference
+    - Seminar: Streaming ASR
+- Week 13: [Slides](https://docs.google.com/presentation/d/1iwGzbmdJDulfjEvGhw1_oGle8IAjFlalUr_lHWFsVM8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/pXO7D-7JJCjlhQ)
+    - Lecture: Flow based TTS + Voice Conversion
 
 ## Contributors & course staff
 
