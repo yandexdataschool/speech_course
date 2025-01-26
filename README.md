@@ -4,6 +4,58 @@
 
 ## Course program
 
+- Week 1: [Slides]() | [Lecture]() | [Seminar]()
+    - Lecture: Intro to Digital Signal Processing (DSP)
+    - Seminar: Implement DSP pipeline
+    - Homework (5pt): Implement mel-spectrogram transformations
+- Week 2: 
+    - Lecture: Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
+    - Seminar: Train VAD models
+    - Homework (15pt): Train SED models
+- Week 3: 
+    - Lecture: Keyword Spotting and Speech Biometrics tasks
+    - Seminar: Train Biometrics model and look at embeddings
+    - Homework (20pt): Train Biometrics model to better quality
+- Week 4:
+    - Lecture: Speech Recognition I
+    - Seminar: Metrics and augmentations for speech recognition
+    - Homework (10pt): Implement CTC algorithm
+- Week 5:
+    - Lecture: Speech Recognition II, Pretraining
+    - Homework (5pt): Finetune Wav2Vec2
+- Week 6:
+    - Lecture: ASR Inference
+    - Seminar: Streaming ASR
+    - Homework (5pt): Seminar continuation
+- Week 7:
+    - Lecture: Text-to-Speech I, intro, preprocessor, metrics
+- Week 8:
+    - Lecture: Text-to-Speech II, Acoustic models and vocoding 
+    - Seminar (5pt): Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
+    - Homework (10pt): Train FastPitch model
+- Week 9:
+    - Lecture: Text-to-Speech III, Codecs 
+    - Seminar: Vector Quantizaton, Residual Vector Quantization
+- Week 10:
+    - Lecture: Text-to-Speech IV, Tortoise and other tranformers for TTS
+    - Homework (15pt): write codec transformer with delayed pattern
+- Week 11:
+    - Lecture: Multimodality, How to build a big GPT with voice capabilities
+- Week 12:
+    - Lecture: noise reduction
+    - Seminar: Streaming STFT and ISTFT
+    - Homework (15pt): Noise reduction model implementation
+- Week 13:
+    - Lecture: Acoustic Echo Cancelation (AEC) and Beamforming
+    - Homework (5pt): Basic AEC implementation
+
+
+
+<details>
+<summary>
+Course program for spring 2024
+</summary>
+
 - Week 1: [Slides](https://docs.google.com/presentation/d/1IkVFw8PgWPjn74918rFbuahd7Q38O0f04_bk5_fWPhE/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/eL9PZKCT1O7yhw) | [Seminar](https://disk.yandex.ru/i/ILE1n2aVIWkxEA)
     - Lecture: Intro to Digital Signal Processing (DSP)
     - Seminar: Implement DSP pipeline
@@ -47,19 +99,24 @@
 - Week 13: [Slides](https://docs.google.com/presentation/d/1iwGzbmdJDulfjEvGhw1_oGle8IAjFlalUr_lHWFsVM8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/pXO7D-7JJCjlhQ)
     - Lecture: Flow based TTS + Voice Conversion
 
+</details>
+
 ## Contributors & course staff
 
 Current:
+- Pavel Mazaev - spotter
 - Alex Rak - VAD, spotter, biometry
 - Mikhail Andreev - ASR
 - Stepan Kargaltsev - ASR
 - Evgeniia Elistratova - TTS
 - Roman Kail - TTS
 - Vladimir Platonov - TTS
-- Evgenii Shabalin - TTS
+- Ivan Matvienko - TTS
 - Ravil Khisamov - VQE
+- Anton Parfiriev - AEC
 
 Previous iteration:
 - Andrey Malinin - Course admin, lectures, seminars, homeworks
 - Vladimir Kirichenko - lectures, seminars, homeworks
 - Segey Dukanov - lecures, seminars, homeworks
+- Evgenii Shabalin - lecture and homework on conversion
