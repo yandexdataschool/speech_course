@@ -106,7 +106,6 @@ class Wav2Spectrogram:
         self.griffin_lim = GriffinLim(window_size=window_size, hop_length=hop_length, n_freqs=n_freqs)
 
     def __call__(self, waveform):
-        # return self.square(self.fft(self.hann(self.windowing(waveform))))
         return self.fft(self.hann(self.windowing(waveform)))
 
     def restore(self, spec):
@@ -129,6 +128,29 @@ class Wav2Mel:
 
     def restore(self, mel):
         return self.wav_to_spec.restore(self.spec_to_mel.restore(mel))
+
+
+class TimeReverse:
+    def __call__(self, mel):
+        # Your code here
+        raise NotImplementedError("TODO: assignment")
+        # ^^^^^^^^^^^^^^
+
+
+
+class Loudness:
+    def __init__(self, loudness_factor):
+        # Your code here
+        raise NotImplementedError("TODO: assignment")
+        # ^^^^^^^^^^^^^^
+
+
+    def __call__(self, mel):
+        # Your code here
+        raise NotImplementedError("TODO: assignment")
+        # ^^^^^^^^^^^^^^
+
+
 
 
 class PitchUp:
@@ -173,29 +195,7 @@ class SpeedUpDown:
 
 
 
-class Loudness:
-    def __init__(self, loudness_factor):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
-
-    def __call__(self, mel):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
-
-
-class TimeReverse:
-    def __call__(self, mel):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
-
-
-class VerticalSwap:
+class FrequenciesSwap:
     def __call__(self, mel):
         # Your code here
         raise NotImplementedError("TODO: assignment")
@@ -242,3 +242,4 @@ class Cringe2:
         # Your code here
         raise NotImplementedError("TODO: assignment")
         # ^^^^^^^^^^^^^^
+

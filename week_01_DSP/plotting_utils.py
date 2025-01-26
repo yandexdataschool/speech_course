@@ -3,7 +3,6 @@ import numpy as np
 import scipy
 from matplotlib import pyplot as plt
 from IPython.display import display, Audio
-from cmath import pi, e, polar
 
 from transforms import *
 
@@ -62,7 +61,7 @@ def plot_hann_window(window_size=1024, ax=None):
 
     ax.plot(hann_weights)
     ax.grid()
-    ax.set_title(f"Hann window")
+    ax.set_title("Hann window")
     ax.set_xlabel("Weights' indices")
     ax.set_ylabel("Weights")
     if show_needed:
@@ -181,67 +180,6 @@ def plot_hann(demo_tensor, hann_class=Hann):
             for ax, name in zip(line, col_names):
                 ax.set_title(name)
         line[0].set_ylabel(line_names[idx])
-
-    fig.show()
-
-
-def plot_signal_fft(signal_fn, sample_rate, window_size):
-    x_ticks = np.arange(sample_rate)
-    signal = signal_fn(x_ticks / sample_rate)
-
-    fig, (ax0, ax1, ax2) = plt.subplots(ncols=3, figsize=(15, 4))
-
-    ax0.plot(
-        np.linspace(0, sample_rate, 2048),
-        signal_fn(np.linspace(0, 1, 2048)),
-        label="Continuous signal")
-    ax0.scatter(x_ticks, signal, c="black", s=5, label="Sampled signal")
-    ax0.axvline(0, c="grey", ls="--")
-    ax0.axvline(window_size, c="grey", ls="--", label="Window_size")
-    ax0.axhline(np.mean(signal), c="black", linewidth=0.5, label="Mean")
-
-    ax0.set_xlabel("Indices")
-    ax0.set_ylabel("Signal values")
-    ax0.legend()
-
-    window = signal[:window_size]
-
-    # ax1.plot(np.arange(window.shape[0]), window)
-    ax1.plot(
-        np.linspace(0, window_size, 2048),
-        signal_fn(np.linspace(0, window_size / sample_rate, 2048)),
-        label="Continuous signal")
-    ax1.scatter(np.arange(window.shape[0]), window, c='black', s=20, label="Sampled signal")
-    ax1.axhline(np.mean(window), c="black", linewidth=0.5, label="Mean")
-
-    ax1.set_xlabel("Indices")
-    ax1.set_ylabel("Signal values")
-    ax1.legend()
-
-    fft = np.fft.rfft(window)
-
-    ax2.vlines(
-        x=np.arange(fft.shape[0]) * sample_rate / window_size,
-        ymin=0,
-        ymax=np.absolute(fft),
-        color="blue")
-    ax2.axhline(0, linewidth=0.5, c='black')
-
-    ax2.set_xlabel("FFT frequencies 1/s")
-    ax2.set_ylabel("Magnitudes of FFT values |FFT|")
-
-    n_labels = 6
-    labels = []
-    for idx in (np.arange(fft.shape[0]) * sample_rate / window_size):
-        if idx % int(fft.shape[0] // n_labels) == 0 or idx == (np.arange(fft.shape[0]) * sample_rate / window_size)[-1]:
-            labels.append(str(int(idx)))
-        else:
-            labels.append("")
-
-    ax2.set_xticks(
-        ticks=np.arange(fft.shape[0]) * sample_rate / window_size,
-        labels=labels,
-    )
 
     fig.show()
 
@@ -369,7 +307,7 @@ def plot_transformed_mels(mel, transformed_mel):
     fig.show()
 
 
-def plot_rerstored_spec(spec, restored_spec):
+def plot_restored_spec(spec, restored_spec):
     fig, (ax0, ax1, ax2) = plt.subplots(ncols=3, figsize=(15, 5), gridspec_kw={"width_ratios": [1, 1, 1]})
 
     max_value = max(spec.max(), restored_spec.max())

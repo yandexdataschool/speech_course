@@ -1,8 +1,0 @@
-matplotlib
-numpy
-scipy
-soundfile
-torch
-torchaudio
-torchmetrics
-tqdm
