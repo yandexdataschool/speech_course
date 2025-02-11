@@ -4,7 +4,7 @@
 
 ## Course program
 
-- Week 1: [Slides](https://docs.google.com/presentation/d/1Cte6w0t8yTJRFirde6GPxKB29VX3SrX1mhAkKYEN-n4/edit?usp=sharing) | [Lecture]() | [Seminar]()
+- Week 1: [Slides](https://docs.google.com/presentation/d/1Cte6w0t8yTJRFirde6GPxKB29VX3SrX1mhAkKYEN-n4/edit?usp=sharing) | Lecture | Seminar
     - Lecture: Intro to Digital Signal Processing (DSP)
     - Seminar: Implement DSP pipeline
     - Homework (5pt): Implement mel-spectrogram transformations
@@ -104,9 +104,10 @@ Course program for spring 2024
 ## Contributors & course staff
 
 Current:
-- Pavel Mazaev - spotter
-- Alex Rak - VAD, spotter, biometry
-- Mikhail Andreev - ASR
+- Pavel Mazaev - VAD, SED
+- Alex Rak - spotter, biometry
+- Daniil Volgin - ASR
+- Dzmitry Soupel - ASR
 - Stepan Kargaltsev - ASR
 - Evgeniia Elistratova - TTS
 - Roman Kail - TTS
@@ -120,3 +121,4 @@ Previous iteration:
 - Vladimir Kirichenko - lectures, seminars, homeworks
 - Segey Dukanov - lecures, seminars, homeworks
 - Evgenii Shabalin - lecture and homework on conversion
+- Mikhail Andreev - ASR
