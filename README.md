@@ -4,7 +4,7 @@
 
 ## Course program
 
-- Week 1: [Slides](https://docs.google.com/presentation/d/1Cte6w0t8yTJRFirde6GPxKB29VX3SrX1mhAkKYEN-n4/edit?usp=sharing) | Lecture | Seminar
+- Week 1: [Slides](https://docs.google.com/presentation/d/1Cte6w0t8yTJRFirde6GPxKB29VX3SrX1mhAkKYEN-n4/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/E-cGC7pH46UjWQ) | [Seminar](https://disk.yandex.ru/i/j4MsAAliJ5ri_A)
     - Lecture: Intro to Digital Signal Processing (DSP)
     - Seminar: Implement DSP pipeline
     - Homework (5pt): Implement mel-spectrogram transformations
