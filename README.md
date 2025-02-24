@@ -15,7 +15,7 @@
 - Week 3: 
     - Lecture: Keyword Spotting and Speech Biometrics tasks
     - Seminar: Train Biometrics model and look at embeddings
-    - Homework (20pt): Train Biometrics model to better quality
+    - Homework (20pt): Train Biometrics model ECAPA-TDNN with contrastive loss
 - Week 4:
     - Lecture: Speech Recognition I
     - Seminar: Metrics and augmentations for speech recognition
