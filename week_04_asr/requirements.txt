@@ -1,0 +1,15 @@
+arpa
+g2p_en
+ipython==8.22.0
+ipywidgets
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+seaborn
+sentencepiece
+torch
+torchaudio
+tqdm
+wandb

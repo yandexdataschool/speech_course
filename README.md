@@ -8,18 +8,18 @@
     - Lecture: Intro to Digital Signal Processing (DSP)
     - Seminar: Implement DSP pipeline
     - Homework (5pt): Implement mel-spectrogram transformations
-- Week 2 [Lecture](https://disk.yandex.ru/i/gyROgNpX5LZNZQ) | [Seminar](https://disk.yandex.ru/i/EwrqSMFQHICVRA): 
+- Week 2 [Lecture](https://disk.yandex.ru/i/gyROgNpX5LZNZQ) | [Seminar](https://disk.yandex.ru/i/EwrqSMFQHICVRA):
     - Lecture: Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
     - Seminar: Train VAD models
     - Homework (15pt): Train SED models
-- Week 3 [Slides](https://docs.google.com/presentation/d/1IppXDfOI2Du5bMfnjxosAgg6Uu0VjXEVRr_8nkUxAus/edit?usp=sharing): 
+- Week 3 [Slides](https://docs.google.com/presentation/d/1IppXDfOI2Du5bMfnjxosAgg6Uu0VjXEVRr_8nkUxAus/edit?usp=sharing):
     - Lecture: Keyword Spotting and Speech Biometrics tasks
     - Seminar: Train Biometrics model and look at embeddings
     - Homework (20pt): Train Biometrics model ECAPA-TDNN with contrastive loss
 - Week 4:
     - Lecture: Speech Recognition I
-    - Seminar: Metrics and augmentations for speech recognition
-    - Homework (10pt): Implement CTC algorithm
+    - Seminar: CTC forward-backward, soft alignment
+    - Homework (10pt): CTC/RNNT decoding, RNNT forward-backward
 - Week 5:
     - Lecture: Speech Recognition II, Pretraining
     - Homework (5pt): Finetune Wav2Vec2
@@ -30,11 +30,11 @@
 - Week 7:
     - Lecture: Text-to-Speech I, intro, preprocessor, metrics
 - Week 8:
-    - Lecture: Text-to-Speech II, Acoustic models and vocoding 
+    - Lecture: Text-to-Speech II, Acoustic models and vocoding
     - Seminar (5pt): Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
     - Homework (10pt): Train FastPitch model
 - Week 9:
-    - Lecture: Text-to-Speech III, Codecs 
+    - Lecture: Text-to-Speech III, Codecs
     - Seminar: Vector Quantizaton, Residual Vector Quantization
 - Week 10:
     - Lecture: Text-to-Speech IV, Tortoise and other tranformers for TTS
@@ -77,11 +77,11 @@ Course program for spring 2024
 - Week 6: [Slides](https://docs.google.com/presentation/d/1MAAAc_2vRS2jhxZlqfpx0m7Z3MY9J1jyXgdl7XStFf8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/X6Se5K14FF91Ow)
     - Lecture: Text-to-Speech I, intro, preprocessor, metrics
 - Week 7: [Slides](https://docs.google.com/presentation/d/1CO1_5xzZb7mYLfQfdhqN0350dNCkgLt6hHB7smUjdGA/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/YW_TVQMGKbuYag)
-    - Lecture: Text-to-Speech II, Acoustic models 
+    - Lecture: Text-to-Speech II, Acoustic models
     - Seminar: Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
     - Homework: Train FastPitch model
 - Week 8: [Slides, p1](https://docs.google.com/presentation/d/1QU5sUe8_uGEiFs-IFua7EU5_imsZK2TRuKJ_6IY4O9k/edit?usp=sharing) | [Lecture, p1](https://disk.yandex.ru/d/R4p0hupEJrF02g) | [Slides, p2](https://docs.google.com/presentation/d/143qUGId_yvMKx3IDOcErF5M1V6NXHmHp30GuRryhHxs/edit?usp=sharing) | [Lecture, p2](https://disk.yandex.ru/d/abw48YXapfwvfw) | [Seminar](https://disk.yandex.ru/i/XSr1jKD_ah4hkg)
-    - Lecture, p1: Text-to-Speech III, Vocoding 
+    - Lecture, p1: Text-to-Speech III, Vocoding
     - Lecture, p2: Vector Quantization, Codecs
     - Seminar: Vector Quantizaton, Residual Vector Quantization
 - Week 9: [Slides](https://docs.google.com/presentation/d/1ARlJHMr_c0R2g5Od-66ZTTuZGRxdTCjAzX2LQ9XPFdQ/edit#slide=id.g1f4de8b9e93_0_1414) | [Lecture, p1](https://disk.yandex.ru/i/80GAO85GUjRzKA) | [Lecture, p2](https://disk.yandex.ru/i/icrNEsu17jL7hA)
