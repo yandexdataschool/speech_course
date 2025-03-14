@@ -16,7 +16,7 @@
     - Lecture: Keyword Spotting and Speech Biometrics tasks
     - Seminar: Train Biometrics model and look at embeddings
     - Homework (20pt): Train Biometrics model ECAPA-TDNN with contrastive loss
-- Week 4 [Slides](https://docs.google.com/presentation/d/1dU9NasfSDCfgldqJzaaEF2xdamejnGUb4tzu4wbTCPU) | Lecture | Seminar:
+- Week 4 [Slides](https://docs.google.com/presentation/d/1dU9NasfSDCfgldqJzaaEF2xdamejnGUb4tzu4wbTCPU) | [Lecture](https://disk.yandex.ru/i/_KgUj9Snbl9BsA) | [Seminar](https://disk.yandex.ru/d/e6n-TwqNPyacOw):
     - Lecture: Speech Recognition I
     - Seminar: CTC forward-backward, soft alignment
     - Homework (10pt): CTC/RNN-T decoding, RNN-T forward-backward
