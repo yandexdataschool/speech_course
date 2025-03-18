@@ -20,7 +20,7 @@
     - Lecture: Speech Recognition I
     - Seminar: CTC forward-backward, soft alignment
     - Homework (10pt): CTC/RNN-T decoding, RNN-T forward-backward
-- Week 5:
+- Week 5 [Slides](https://github.com/yandexdataschool/speech_course/blob/main/week_05_pretraining_asr/lecture.pdf) | [Lecture](https://disk.yandex.ru/d/vownNQ4ZuBARPg) | [Seminar](https://disk.yandex.ru/i/7BtUnWcme2ryag):
     - Lecture: Speech Recognition II, Pretraining
     - Homework (5pt): Finetune Wav2Vec2
 - Week 6:
