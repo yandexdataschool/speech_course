@@ -23,7 +23,7 @@
 - Week 5 [Slides](https://github.com/yandexdataschool/speech_course/blob/main/week_05_pretraining_asr/lecture.pdf) | [Lecture](https://disk.yandex.ru/d/vownNQ4ZuBARPg) | [Seminar](https://disk.yandex.ru/i/7BtUnWcme2ryag):
     - Lecture: Speech Recognition II, Pretraining
     - Homework (5pt): Finetune Wav2Vec2
-- Week 6:
+- Week 6: [Slides](https://docs.google.com/presentation/d/1BjEEduYCH7z0yKIbL3-t3jaEv90c2r_O6aaMWVXhtRg/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/smC9fVJmXGWOeA) | [Seminar](https://disk.yandex.ru/i/vMn3gnPuH9j3mA)
     - Lecture: ASR Inference
     - Seminar: Streaming ASR
     - Homework (5pt): Seminar continuation
