@@ -27,7 +27,7 @@
     - Lecture: ASR Inference
     - Seminar: Streaming ASR
     - Homework (5pt): Seminar continuation
-- Week 7:
+- Week 7: [Slides](https://docs.google.com/presentation/d/1MAAAc_2vRS2jhxZlqfpx0m7Z3MY9J1jyXgdl7XStFf8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/d/7w6n6ad8PGxV7w)
     - Lecture: Text-to-Speech I, intro, preprocessor, metrics
 - Week 8:
     - Lecture: Text-to-Speech II, Acoustic models and vocoding
