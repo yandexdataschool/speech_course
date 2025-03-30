@@ -29,7 +29,7 @@
     - Homework (5pt): Seminar continuation
 - Week 7: [Slides](https://docs.google.com/presentation/d/1MAAAc_2vRS2jhxZlqfpx0m7Z3MY9J1jyXgdl7XStFf8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/d/7w6n6ad8PGxV7w)
     - Lecture: Text-to-Speech I, intro, preprocessor, metrics
-- Week 8:
+- Week 8: [Slides](https://docs.google.com/presentation/d/1hR4koanl61qFXNAk2SRp45gYcgxUAc5Xt6_UQJMJYmM/edit?usp=sharing)
     - Lecture: Text-to-Speech II, Acoustic models and vocoding
     - Seminar (5pt): Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
     - Homework (10pt): Train FastPitch model
