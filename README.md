@@ -33,7 +33,7 @@
     - Lecture: Text-to-Speech II, Acoustic models and vocoding
     - Seminar (5pt): Pitch estimation, Monotonic Alignment Search for phoneme duration estimation
     - Homework (10pt): Train FastPitch model
-- Week 9:
+- Week 9: [Slides](https://docs.google.com/presentation/d/13pfNuGipGjxlAB754rtQvv_goSFkJR5uTUq4_nCUfWE/edit?usp=sharing)
     - Lecture: Text-to-Speech III, Codecs
     - Seminar: Vector Quantizaton, Residual Vector Quantization
 - Week 10:
