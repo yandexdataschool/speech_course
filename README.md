@@ -36,7 +36,7 @@
 - Week 9: [Slides](https://docs.google.com/presentation/d/13pfNuGipGjxlAB754rtQvv_goSFkJR5uTUq4_nCUfWE/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/XCo4vLs3z8UhLw) | [Seminar](https://disk.yandex.ru/i/EVqLrmq1VOyedw)
     - Lecture: Text-to-Speech III, Codecs
     - Seminar: Vector Quantizaton, Residual Vector Quantization
-- Week 10: [Slides](https://docs.google.com/presentation/d/1MldH8pnho6BiMHyW3qU8aXspdKarV_sRC1mvvs77FbE/edit?usp=sharing)
+- Week 10: [Slides](https://docs.google.com/presentation/d/1MldH8pnho6BiMHyW3qU8aXspdKarV_sRC1mvvs77FbE/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/uoemA7ga_Rz2mQ)
     - Lecture: Text-to-Speech IV, Tortoise and other tranformers for TTS
     - Homework (15pt): write inference for CLM with two transformers
 - Week 11:
