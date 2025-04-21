@@ -39,7 +39,7 @@
 - Week 10: [Slides](https://docs.google.com/presentation/d/1MldH8pnho6BiMHyW3qU8aXspdKarV_sRC1mvvs77FbE/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/uoemA7ga_Rz2mQ)
     - Lecture: Text-to-Speech IV, Tortoise and other tranformers for TTS
     - Homework (15pt): write inference for CLM with two transformers
-- Week 11:
+- Week 11: [Slides](https://docs.google.com/presentation/d/1zfo-vvYHKIFZniDuh-afKif8v8O3272uLSAXm7cFyL8/edit?slide=id.g34b931ff1ac_0_118#slide=id.g34b931ff1ac_0_118)
     - Lecture: Multimodality, How to build a big GPT with voice capabilities
 - Week 12:
     - Lecture: noise reduction
