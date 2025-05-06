@@ -41,7 +41,7 @@
     - Homework (15pt): write inference for CLM with two transformers
 - Week 11: [Slides](https://docs.google.com/presentation/d/1zfo-vvYHKIFZniDuh-afKif8v8O3272uLSAXm7cFyL8/edit?slide=id.g34b931ff1ac_0_118#slide=id.g34b931ff1ac_0_118) | [Lecture](https://disk.yandex.ru/i/hl_jSEu2fLgWGA)
     - Lecture: Multimodality, How to build a big GPT with voice capabilities
-- Week 12 [Lecture](https://disk.yandex.ru/i/tEFqArlw8vH53g) | [Seminar](https://disk.yandex.ru/i/4ZY96Fsb-si_XQ):
+- Week 12: [Slides](https://drive.google.com/open?id=1uBAnbciOyoD0VoVdkudPuW3ZeTuAh8wJ&usp=drive_fs) | [Lecture](https://disk.yandex.ru/i/tEFqArlw8vH53g) | [Seminar](https://disk.yandex.ru/i/4ZY96Fsb-si_XQ)
     - Lecture: noise reduction
     - Seminar: Streaming STFT and ISTFT
     - Homework (15pt): Noise reduction model implementation
