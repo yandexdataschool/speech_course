@@ -39,13 +39,13 @@
 - Week 10: [Slides](https://docs.google.com/presentation/d/1MldH8pnho6BiMHyW3qU8aXspdKarV_sRC1mvvs77FbE/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/uoemA7ga_Rz2mQ)
     - Lecture: Text-to-Speech IV, Tortoise and other tranformers for TTS
     - Homework (15pt): write inference for CLM with two transformers
-- Week 11: [Slides](https://docs.google.com/presentation/d/1zfo-vvYHKIFZniDuh-afKif8v8O3272uLSAXm7cFyL8/edit?slide=id.g34b931ff1ac_0_118#slide=id.g34b931ff1ac_0_118)
+- Week 11: [Slides](https://docs.google.com/presentation/d/1zfo-vvYHKIFZniDuh-afKif8v8O3272uLSAXm7cFyL8/edit?slide=id.g34b931ff1ac_0_118#slide=id.g34b931ff1ac_0_118) | [Lecture](https://disk.yandex.ru/i/hl_jSEu2fLgWGA)
     - Lecture: Multimodality, How to build a big GPT with voice capabilities
-- Week 12:
+- Week 12 [Lecture](https://disk.yandex.ru/i/tEFqArlw8vH53g) | [Seminar](https://disk.yandex.ru/i/4ZY96Fsb-si_XQ):
     - Lecture: noise reduction
     - Seminar: Streaming STFT and ISTFT
     - Homework (15pt): Noise reduction model implementation
-- Week 13:
+- Week 13: [Slides 1](https://drive.google.com/open?id=1tzsZlPC4UPM8wrpuD7LzV3JBJCiW5vmp&usp=drive_fs) | [Slides 2](https://drive.google.com/open?id=1u2WKIt9iPpxFQQUJgxXUeq29YGwz7zMh&usp=drive_fs)
     - Lecture: Acoustic Echo Cancelation (AEC) and Beamforming
     - Homework (5pt): Basic AEC implementation
 
