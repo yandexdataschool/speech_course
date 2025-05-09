@@ -114,7 +114,7 @@ Current:
 - Vladimir Platonov - TTS
 - Ivan Matvienko - TTS
 - Ravil Khisamov - VQE
-- Anton Parfiriev - AEC
+- Anton Porfirev - AEC
 
 Previous iteration:
 - Andrey Malinin - Course admin, lectures, seminars, homeworks
