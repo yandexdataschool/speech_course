@@ -45,7 +45,7 @@
     - Lecture: noise reduction
     - Seminar: Streaming STFT and ISTFT
     - Homework (15pt): Noise reduction model implementation
-- Week 13: [Slides 1](https://drive.google.com/open?id=1tzsZlPC4UPM8wrpuD7LzV3JBJCiW5vmp&usp=drive_fs) | [Slides 2](https://drive.google.com/open?id=1u2WKIt9iPpxFQQUJgxXUeq29YGwz7zMh&usp=drive_fs)
+- Week 13: [Slides 1](https://drive.google.com/open?id=1tzsZlPC4UPM8wrpuD7LzV3JBJCiW5vmp&usp=drive_fs) | [Slides 2](https://drive.google.com/open?id=1u2WKIt9iPpxFQQUJgxXUeq29YGwz7zMh&usp=drive_fs) | [Lecture+Seminar](https://disk.yandex.ru/i/3gEl2GV22QvEkA)
     - Lecture: Acoustic Echo Cancelation (AEC) and Beamforming
     - Homework (5pt): Basic AEC implementation
 
