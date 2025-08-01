@@ -8,7 +8,7 @@
     - Lecture: Intro to Digital Signal Processing (DSP)
     - Seminar: Implement DSP pipeline
     - Homework (5pt): Implement mel-spectrogram transformations
-- Week 2 [Lecture](https://disk.yandex.ru/i/gyROgNpX5LZNZQ) | [Seminar](https://disk.yandex.ru/i/EwrqSMFQHICVRA):
+- Week 2 [Slides](https://docs.google.com/presentation/d/1M3AULJazLVuwJpKsgb5UowcI_XAT6AB8I22ofd1fJY8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/gyROgNpX5LZNZQ) | [Seminar](https://disk.yandex.ru/i/EwrqSMFQHICVRA):
     - Lecture: Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
     - Seminar: Train VAD models
     - Homework (15pt): Train SED models
