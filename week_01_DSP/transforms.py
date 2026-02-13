@@ -22,24 +22,26 @@ class Windowing:
         self.hop_length = hop_length if hop_length else self.window_size // 2
     
     def __call__(self, waveform):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
+        left_padding = np.zeros(self.window_size // 2)
+        right_padding = np.zeros(self.window_size // 2)
+        effective_waveform = np.concat([left_padding, waveform, right_padding], axis=-1)
 
-        return windows
+        windows = []
+        for start in range(0, effective_waveform.shape[-1] - self.window_size + 1, self.hop_length):
+            end = start + self.window_size
+            windows.append(effective_waveform[start:end])
+
+        return np.stack(windows)
     
 
 class Hann:
     def __init__(self, window_size=1024):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
+        self._sliding_window = scipy.signal.windows.hann(M=window_size, sym=False)
     
     def __call__(self, windows):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
+        # windows (seq_len, window_length)
+        # _sliding_window (window_length,)
+        return windows * self._sliding_window[None, :]
 
 
 
@@ -48,10 +50,10 @@ class DFT:
         self.n_freqs = n_freqs
 
     def __call__(self, windows):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
+        # windows (seq_len, window_length)
+        fft_windows = np.fft.rfft(windows, n=None, axis=1)
+        spec = np.absolute(fft_windows) # (n_frames, window_size // 2) i.e. (time frame, freq coef)
+        spec = spec[:, :self.n_freqs]
         return spec
 
 
@@ -62,23 +64,23 @@ class Square:
 
 class Mel:
     def __init__(self, n_fft, n_mels=80, sample_rate=22050):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
+        self._mel_filterbank = librosa.filters.mel(
+            sr=sample_rate,
+            n_fft=n_fft, 
+            n_mels=n_mels,
+            fmin=1,
+            fmax=8192,
+        )  # (n_mels, 1 + n_fft/2)
+        self._inverse_mel_filterbank = np.linalg.pinv(self._mel_filterbank)
 
     def __call__(self, spec):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
+        # spec (n_frames, 1 + n_fft/2)
+        mel = spec @ self._mel_filterbank.T
         return mel
 
     def restore(self, mel):
-        # Your code here
-        raise NotImplementedError("TODO: assignment")
-        # ^^^^^^^^^^^^^^
-
+        # mel (n_frames, n_mels)
+        spec = mel @ self._inverse_mel_filterbank.T
         return spec
 
 

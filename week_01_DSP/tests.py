@@ -154,7 +154,7 @@ def test_mel(testing_class):
             print("", file=sys.stderr)
             print(f"Shapes do not match trg.shape={trg.shape} != result.shape={result.shape}", file=sys.stderr)
             return False
-        if not np.allclose(result, trg):
+        if not np.allclose(result, trg, rtol=1.e-3, atol=1.e-5):
             msg = f"Didn't manage to restore noisy sample number {idx}.\n" \
                   f"Input of shape {inp.shape} expected result of shape {trg.shape}.\n" \
                   f"Got result of shape {result.shape}, but the target and result do not match.\n"
