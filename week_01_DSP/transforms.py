@@ -185,9 +185,9 @@ class SpeedUpDown:
 
     def __call__(self, mel):
         target_n_frames = int(self.speed_up_factor * mel.shape[0])
-        new_idx = np.round(np.arange(target_n_frames) / self.speed_up_factor).astype(np.int64)
-        new_idx = np.clip(new_idx, 0, mel.shape[0] - 1)
-        return mel[new_idx]
+        idx = np.linspace(0, mel.shape[0] - 1, num=target_n_frames)
+        idx = np.round(idx).astype(np.int64)
+        return mel[idx]
 
 
 class FrequenciesSwap:
