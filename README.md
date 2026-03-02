@@ -9,6 +9,11 @@
     - Seminar: Implement DSP pipeline
     - Homework (<TBD>pt): Implement mel-spectrogram transformations
 
+- Week 3: [Slides](https://docs.google.com/presentation/d/1iBHjRY3W0kHvBUhFl5Vf76DK9glwwLmAZvUJ7JzcZyE/edit?usp=sharingg) | [Seminar](https://disk.yandex.ru/i/DWI1hzJ5eZMBLw)
+     - Lecture: Keyword Spotting and Speech Biometrics tasks
+    - Seminar: Train Biometrics model and look at embeddings
+    - Homework (20pt): Train Biometrics model ECAPA-TDNN with contrastive loss
+
 
 <details>
 <summary>
@@ -117,8 +122,7 @@ Course program for spring 2024
 
 Current:
 - Pavel Mazaev - VAD, SED
-- Aman Syayfetdinov - VAD
-- Alex Rak - spotter, biometry
+- Aman Syayfetdinov - spotter, biometry
 - Daniil Volgin - ASR
 - Dzmitry Soupel - ASR
 - Stepan Kargaltsev - ASR
@@ -135,3 +139,4 @@ Previous iteration:
 - Segey Dukanov - lecures, seminars, homeworks
 - Evgenii Shabalin - lecture and homework on conversion
 - Mikhail Andreev - ASR
+- Alex Rak - VAD, SED, spotter, biometry
