@@ -10,10 +10,14 @@
     - Homework (<TBD>pt): Implement mel-spectrogram transformations
 
 - Week 3: [Slides](https://docs.google.com/presentation/d/1iBHjRY3W0kHvBUhFl5Vf76DK9glwwLmAZvUJ7JzcZyE/edit?usp=sharingg) | [Seminar](https://disk.yandex.ru/i/DWI1hzJ5eZMBLw)
-     - Lecture: Keyword Spotting and Speech Biometrics tasks
+    - Lecture: Keyword Spotting and Speech Biometrics tasks
     - Seminar: Train Biometrics model and look at embeddings
     - Homework (20pt): Train Biometrics model ECAPA-TDNN with contrastive loss
 
+- Week 4 [Slides](https://docs.google.com/presentation/d/1TGAaI4uHM1pCkP8sS-ExIqJxaQyXOfEesOr4dIKYlfY) | [Lecture]() | [Seminar]():
+    - Lecture: Speech Recognition I
+    - Seminar: CTC forward-backward, soft alignment
+    - Homework (10pt): CTC/RNN-T decoding, RNN-T forward-backward
 
 <details>
 <summary>
