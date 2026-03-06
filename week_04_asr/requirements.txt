@@ -1,6 +1,6 @@
 arpa
 g2p_en
-ipython==8.22.0
+ipython
 ipywidgets
 jupyter
 matplotlib
