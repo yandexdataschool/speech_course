@@ -8,6 +8,11 @@
     - Lecture: Intro to Digital Signal Processing (DSP)
     - Seminar: Implement DSP pipeline
     - Homework (<TBD>pt): Implement mel-spectrogram transformations
+    - 
+- Week 2: [Slides](https://docs.google.com/presentation/d/1OKeUW8f7SrKNh5W8LG4rnebqrtPBTibg1sn9-f9fq1I/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/g8lCY4vr0voh5Q) [Seminar](https://disk.yandex.ru/d/XxjSFpDF7V-N0Q)
+    - Lecture: Introduction to speech NN discriminative models. Voice Activity Detection (VAD) and Sound Event Detection (SED) tasks
+    - Seminar: Train VAD models, intro to the homework
+    - Homework (15pt): Train SED models; (3pt bonus) SED models vibecoding
 
 - Week 3: [Slides](https://docs.google.com/presentation/d/1iBHjRY3W0kHvBUhFl5Vf76DK9glwwLmAZvUJ7JzcZyE/edit?usp=sharingg) | [Seminar](https://disk.yandex.ru/i/DWI1hzJ5eZMBLw)
     - Lecture: Keyword Spotting and Speech Biometrics tasks
