@@ -31,7 +31,7 @@
 
 - Week 6 [Slides](https://docs.google.com/presentation/d/1AA8M8-kSMlX4F4qrCnE_COp_vvyL1pO9Gv77s2Rj5dg/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/-dfJ7Hnm5VgMCw)
     - Leсture: ASR Inference
-    - Homework (5зе): Implement batched inference
+    - Homework (5pt): Implement streaming inference
 
 <details>
 <summary>
