@@ -24,7 +24,7 @@
     - Seminar: CTC forward-backward, soft alignment
     - Homework (10pt): CTC/RNN-T decoding, RNN-T forward-backward
 
-- Week 5 [Slides]() | [Lecture](https://disk.yandex.ru/i/tWqBUIUlQPe22A) | [Seminar](https://disk.yandex.ru/i/aeA_qoYTsFElKQ)
+- Week 5 [Slides](https://docs.google.com/presentation/d/10rdROxSQ0N3Kctei8B006We1Ra1n0dS6Hn4PZzJ52gs/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/tWqBUIUlQPe22A) | [Seminar](https://disk.yandex.ru/i/aeA_qoYTsFElKQ)
     - Lecture: Pretraining in Speech Recognition
     - Seminar: Speech Pretraining - quantization and losses
     - Homework (5pt): Speech Pretraining
