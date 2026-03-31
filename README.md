@@ -33,6 +33,9 @@
     - Leсture: ASR Inference
     - Homework (5pt): Implement streaming inference
 
+- Week 7 [Slides](https://docs.google.com/presentation/d/12w0YcIQKkEFElzPJMj1xmxg3LZft-ExP0KilP2izSqA/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/nLLBPCDfLwVLtg)
+    - Lecture: Intro to TTS. Normalisation, Tasks, Metrics
+
 <details>
 <summary>
 Course program for spring 2025
