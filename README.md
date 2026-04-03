@@ -36,6 +36,11 @@
 - Week 7 [Slides](https://docs.google.com/presentation/d/12w0YcIQKkEFElzPJMj1xmxg3LZft-ExP0KilP2izSqA/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/nLLBPCDfLwVLtg)
     - Lecture: Intro to TTS. Normalisation, Tasks, Metrics
 
+- Week 8 [Slides](https://docs.google.com/presentation/d/1L_bv9B8mvKY7PO86pSnKQQdIqzzrYMnArNi0Nq1rsxw/edit?usp=sharing)
+    - Lecture: Tacotron2, FastPitch, HiFiGAN
+    - Seminar (5pt): Implement pitch estimation
+    - Homework (10pt): Implement FastPitch
+
 <details>
 <summary>
 Course program for spring 2025
