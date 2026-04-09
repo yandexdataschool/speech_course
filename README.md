@@ -14,7 +14,7 @@
     - Seminar: Train VAD models, intro to the homework
     - Homework (15pt): Train SED models; (3pt bonus) SED models vibecoding
 
-- Week 3: [Slides](https://docs.google.com/presentation/d/1iBHjRY3W0kHvBUhFl5Vf76DK9glwwLmAZvUJ7JzcZyE/edit?usp=sharingg) | [Lecture](https://disk.yandex.ru/i/AgmlIrd0_KZdEA) [Seminar](https://disk.yandex.ru/i/DWI1hzJ5eZMBLw)
+- Week 3: [Slides](https://docs.google.com/presentation/d/1iBHjRY3W0kHvBUhFl5Vf76DK9glwwLmAZvUJ7JzcZyE/edit?usp=sharingg) | [Lecture](https://disk.yandex.ru/i/AgmlIrd0_KZdEA) | [Seminar](https://disk.yandex.ru/i/DWI1hzJ5eZMBLw)
     - Lecture: Keyword Spotting and Speech Biometrics tasks
     - Seminar: Train Biometrics model and look at embeddings
     - Homework (20pt): Train Biometrics model ECAPA-TDNN with contrastive loss
@@ -153,13 +153,14 @@ Current:
 - Dzmitry Soupel - ASR
 - Stepan Kargaltsev - ASR
 - Roma Kail - TTS
-- Vladimir Platonov - TTS
+- Arina Shchegortsova TTS
 - Vladimir Gogoryan - TTS
 - Ravil Khisamov - VQE
 - Anton Porfirev - AEC
 
 Previous iteration:
 - Evgeniia Elistratova - TTS lectures, seminars and homeworks
+- Vladimir Platonov - TTS lectures
 - Andrey Malinin - Course admin, lectures, seminars, homeworks
 - Vladimir Kirichenko - lectures, seminars, homeworks
 - Segey Dukanov - lecures, seminars, homeworks
