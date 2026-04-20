@@ -36,10 +36,16 @@
 - Week 7 [Slides](https://docs.google.com/presentation/d/12w0YcIQKkEFElzPJMj1xmxg3LZft-ExP0KilP2izSqA/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/nLLBPCDfLwVLtg)
     - Lecture: Intro to TTS. Normalisation, Tasks, Metrics
 
-- Week 8 [Slides](https://docs.google.com/presentation/d/1L_bv9B8mvKY7PO86pSnKQQdIqzzrYMnArNi0Nq1rsxw/edit?usp=sharing)
+- Week 8 [Slides](https://docs.google.com/presentation/d/1L_bv9B8mvKY7PO86pSnKQQdIqzzrYMnArNi0Nq1rsxw/edit?usp=sharing) | [Lecture] (https://disk.yandex.ru/i/ojvxvVZAjd9GQg)
     - Lecture: Tacotron2, FastPitch, HiFiGAN
     - Seminar (5pt): Implement pitch estimation
     - Homework (10pt): Implement FastPitch
+
+- Week 9 [Slides](https://docs.google.com/presentation/d/1MMNb_FKuRE1rq2f1fCrVjnFewmH9qpB1835nWoibVTI/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/ZavO7g1SPtSB3Q) | [Seminar](https://disk.yandex.ru/i/LK0jCg2E3r-5VA)
+    - Lecture: Quantisation and Neural codecs
+    - Seminar: Implement several quantisation methods
+    - Homework (10pt): Implement more advanced quantisations and audio codecs
+
 
 <details>
 <summary>
