@@ -45,6 +45,10 @@
     - Lecture: Quantisation and Neural codecs
     - Seminar: Implement several quantisation methods
     - Homework (10pt): Implement more advanced quantisations and audio codecs
+ 
+- Week 10 [Lecture](https://disk.yandex.ru/d/4Uv2tOsWcwzDqA)
+
+- Week 11 [Lecture](https://disk.yandex.ru/i/JddYxXDCXiHo-Q)
 
 
 <details>
