@@ -52,6 +52,10 @@
 
 - Week 11 [Slides](https://docs.google.com/presentation/d/1zfo-vvYHKIFZniDuh-afKif8v8O3272uLSAXm7cFyL8/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/JddYxXDCXiHo-Q)
     - Lecture: Spoken dialogue models
+ 
+- Week 13 [Slides](https://docs.google.com/presentation/d/1eNkZMHYDuFv9unzLW7bidDpkWJythQsICo4wgCyeoA0/edit?usp=sharing) | [Lecture](https://disk.yandex.ru/i/oT5oQQPXSLnlYA)
+    - Lecture: AEC and beamforming
+    - Homework (5pt): Implement AEC
 
 
 <details>
